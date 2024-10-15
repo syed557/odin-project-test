@@ -1,0 +1,3 @@
+git config  --global user.name "Syed Islam"
+git config  --global user.email "s.eislam178@gmail.com"
+git config  --get user.name 
